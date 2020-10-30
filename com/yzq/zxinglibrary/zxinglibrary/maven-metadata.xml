@@ -3,10 +3,11 @@
   <groupId>com.yzq.zxinglibrary</groupId>
   <artifactId>zxinglibrary</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.1.0</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20201030070712</lastUpdated>
+    <lastUpdated>20201030072414</lastUpdated>
   </versioning>
 </metadata>
